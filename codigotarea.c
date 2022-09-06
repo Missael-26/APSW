@@ -15,7 +15,8 @@ int main(){
 				printf("Hola desde la opción 2\n\n")
 				break;
 			case 3:
-				
+
+				printf("loperena Jasso Jonathan Missael\n");
 				break;
       			case 5:
 				
